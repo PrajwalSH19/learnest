@@ -11,12 +11,12 @@ This is a solution to the First Launch - FrontEnd Internship Technology Challeng
   - [What I learned](#what-i-learned)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
+The challenge is to build out this landing page and get it looking as close to the design as possible.
 
+This challenge focuses mostly on HTML & CSS. There's a tiny bit of JS included for the mobile navigation toggle. But you could also choose to do this without JS!
 Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
