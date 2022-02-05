@@ -6,6 +6,8 @@ This is a solution to the First Launch - FrontEnd Internship Technology Challeng
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -21,6 +23,15 @@ Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
+- 
+### Screenshot
+
+![](https://github.com/PrajwalSH19/learnest/blob/main/images/desktop/image-screenshot.png)
+
+### Links
+
+- Solution URL: [Learnest](https://prajwalsh19.github.io/learnest/)
+- Live Site URL: [Learnest](https://prajwalsh19.github.io/learnest/)
 
 ## My process
 
@@ -56,6 +67,18 @@ const proudOfThisFunc = () => {
   console.log("🎉");
 };
 ```
+
+### Useful resources
+
+- ([Styled Components](https://styled-components.com/)) - This helped me for styling reason. I used to use bootstrap before but I really liked this pattern and will use it going forward.
+- [geeksforgeeks](https://www.geeksforgeeks.org/top-10-front-end-web-development-projects-for-beginners/)- This is an amazing article which helped me finally understand few important aspects of a good front-end develpment project. I'd recommend it to anyone still learning this concept.
+
+
+## Author
+
+- Website - [Prajwal S H](https://prajwalsh19.github.io/learnest/)
+- Frontend Mentor - [@PrajwalSH19](https://github.com/PrajwalSH19/learnest)
+- Instagram - [@_p_r_a_j_s_h_](https://www.instagram.com/_p_r_a_j_s_h_)
 
 ## Acknowledgments
 I am thankful for First Launch for giving me an oppertunity to code this beautiful website. I have got a lot of practice doing this and will keep improving my skills in future.
