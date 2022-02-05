@@ -1,6 +1,6 @@
 # Learnest assignment
 
-This is a solution to the First Launch - FrontEnd Internship Technology Challenge. Frontenchallenges help you improve your coding skills by building realistic projects.
+This is a solution to the First Launch - FrontEnd Internship Technology Challenge. Frontend challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
